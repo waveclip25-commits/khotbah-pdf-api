@@ -1,0 +1,9 @@
+{
+      "name": "khotbah-pdf-api",
+        "version": "1.0.0",
+          "dependencies": {
+              "@sparticuz/chromium": "^123.0.0",
+                  "puppeteer-core": "^22.0.0"
+                    }
+                    }
+}
